@@ -1,3 +1,7 @@
+# Important Links
+- **Slide link:** https://drive.google.com/file/d/1kS82Wsi6LosW5WegC4fJAHdt3XbyVYv2/view?usp=sharing
+- **Video link:** https://drive.google.com/file/d/1Zw2NGUVxB71LUYkl9uiJhKpoFaV_f7W2/view?usp=sharing
+
 # 🌱 ZeroFoodWaste
 
 > **Hyperlocal Campus Food Rescue, AI Forecasting & Student Pre-Commitment Platform**
