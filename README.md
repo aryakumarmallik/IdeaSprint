@@ -10,6 +10,16 @@ A modern Single Page Application (SPA) designed to solve collegiate cafeteria fo
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Frontend:** React 19, Tailwind CSS v4, Lucide Icons
+- **State Management:** Reactive local state with cross-view bridging & localStorage sync
+- **Audio Synthesizer:** Web Audio API sound synthesis (zero external audio dependencies)
+- **Visual Micro-Interactions:** Canvas Confetti & CSS3 animations
+- **Build Tool:** Vite 8
+- 
+---
+
 ## 🚀 Key Features
 
 ### 1. 🍽️ Cafeteria Donor Portal (CV & Planning Engine)
@@ -27,16 +37,6 @@ A modern Single Page Application (SPA) designed to solve collegiate cafeteria fo
 - **Demand Reduction Toggle:** *"Skip Today's Mess Lunch"* to inform the kitchen before cooking begins.
 - **Pre-Commitment Incentive Nudge:** Earn +50 Campus Reward Points for canceling 12 hours ahead.
 - **Live Collective Impact Tracker:** Tracks student opt-outs and total kilograms saved from morning cooking pots.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React 19, Tailwind CSS v4, Lucide Icons
-- **State Management:** Reactive local state with cross-view bridging & localStorage sync
-- **Audio Synthesizer:** Web Audio API sound synthesis (zero external audio dependencies)
-- **Visual Micro-Interactions:** Canvas Confetti & CSS3 animations
-- **Build Tool:** Vite 8
 
 ---
 
