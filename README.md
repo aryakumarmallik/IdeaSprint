@@ -12,12 +12,14 @@ A modern Single Page Application (SPA) designed to solve collegiate cafeteria fo
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React 19, Tailwind CSS v4, Lucide Icons
-- **State Management:** Reactive local state with cross-view bridging & localStorage sync
-- **Audio Synthesizer:** Web Audio API sound synthesis (zero external audio dependencies)
-- **Visual Micro-Interactions:** Canvas Confetti & CSS3 animations
-- **Build Tool:** Vite 8
-- 
+* **Framework & Build**: React 19 + Vite 8
+* **Styling**: Tailwind CSS v4 (`@tailwindcss/vite`)
+* **Icons**: Lucide React (`lucide-react`)
+* **State Management**: React built-in `useState` + `localStorage`
+* **Gamification Logic**: Plain JavaScript arithmetic in React state
+* **Audio Synthesizer**: Web Audio API (`AudioContext`)
+* **Celebratory Effects**: Canvas Confetti (`canvas-confetti`)
+* **Deployment / CI**: Vercel, Netlify, and GitHub Actions
 ---
 
 ## 🚀 Key Features
