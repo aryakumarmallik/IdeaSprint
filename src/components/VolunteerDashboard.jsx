@@ -1,24 +1,18 @@
 import React, { useState } from 'react';
 import { 
-  HeartHandshake, 
   MapPin, 
   Users, 
   Navigation, 
   Sparkles, 
-  Clock, 
   PlusCircle, 
   Search, 
   CheckCircle2, 
   History, 
   RotateCcw,
-  Bike,
-  ShieldCheck,
   Flame,
   Award,
   Eye,
-  AlertTriangle,
   Zap,
-  TrendingUp,
   Scale
 } from 'lucide-react';
 import { sound } from '../utils/audio';

@@ -4,10 +4,8 @@ import {
   UtensilsCrossed, 
   HeartHandshake, 
   RotateCcw,
-  Sparkles,
   Users,
-  Coins,
-  Award
+  Coins
 } from 'lucide-react';
 
 export default function Navbar({ 
@@ -15,7 +13,6 @@ export default function Navbar({
   setActiveView, 
   itemCount, 
   onResetDemo,
-  claimedCount,
   studentPoints = 350
 }) {
   return (

@@ -9,11 +9,7 @@ import {
   UtensilsCrossed, 
   HeartHandshake, 
   Users, 
-  RotateCcw,
-  Sparkles,
-  Award,
-  Coins,
-  ShieldCheck
+  RotateCcw
 } from 'lucide-react';
 
 export default function App() {
@@ -179,9 +175,6 @@ export default function App() {
       localStorage.removeItem('zfw_skipped_count');
     } catch {}
   };
-
-  const totalAvailableServings = foodItems.reduce((acc, curr) => acc + (Number(curr.servings) || 0), 0);
-  const totalRescuedServings = claimedItems.reduce((acc, curr) => acc + (Number(curr.servings) || 0), 0);
 
   return (
     <div className="min-h-screen flex flex-col bg-slate-50 text-slate-800 pb-20 sm:pb-0">

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { 
   Camera, 
   Scan, 
@@ -15,10 +15,6 @@ import {
   Scale,
   ChefHat,
   Clock,
-  Layers,
-  RefreshCw,
-  Sliders,
-  DollarSign,
   UtensilsCrossed
 } from 'lucide-react';
 import { sound } from '../utils/audio';

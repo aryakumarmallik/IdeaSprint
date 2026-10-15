@@ -1,13 +1,10 @@
 import React from 'react';
 import { 
   Navigation, 
-  MapPin, 
   Users, 
-  CheckCircle, 
   Clock, 
   ShieldCheck, 
   ArrowRight,
-  Sparkles,
   X
 } from 'lucide-react';
 

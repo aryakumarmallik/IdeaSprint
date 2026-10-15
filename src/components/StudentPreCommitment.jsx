@@ -1,19 +1,13 @@
 import React, { useState } from 'react';
 import { 
-  CheckCircle2, 
   Sparkles, 
   Coins, 
   Utensils, 
-  Clock, 
   Flame, 
   Coffee, 
   Award, 
-  ArrowRight,
-  ShieldCheck,
-  TrendingDown,
-  Info,
-  Calendar,
-  Heart
+  TrendingDown, 
+  Calendar
 } from 'lucide-react';
 import { sound } from '../utils/audio';
 import { triggerConfetti } from '../utils/confetti';
